@@ -1,0 +1,8 @@
+OAYEN
+Only Audiobook You'll Ever Need
+
+This audiobook is made with the pyttsx3 module, can be used offline, and allows voice configurations between male and female.
+
+Any further update will be subsequently posted.
+
+Enjoy!

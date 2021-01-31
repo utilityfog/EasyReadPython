@@ -1,0 +1,7 @@
+PyMuPDF==1.18.3
+pyttsx3==2.90
+fitz==0.0.1.dev2
+Pillow==8.1.0
+PySimpleGUI==4.34.0
+
+#Modules to import

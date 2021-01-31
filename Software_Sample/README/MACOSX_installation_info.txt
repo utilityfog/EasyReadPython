@@ -1,0 +1,7 @@
+# Installation commands for MACOSX
+
+# Terminal command
+pyinstaller --windowed --hidden-import=pyttsx3.drivers --hidden-import=pyttsx3.drivers.nsss --hidden-import=pkg_resources.py2_warn --icon /your_icon_directory /your_project.py_directory
+
+# eg
+pyinstaller --windowed --hidden-import=pyttsx3.drivers --hidden-import=pyttsx3.drivers.nsss --hidden-import=pkg_resources.py2_warn --icon /Users/james/Desktop/iosAppDev/Utilities/TextToSpeech/headphones-icon.icns /Users/james/Documents/UNC/comp110/comp110-workspace-20f-utilityfog/projects/Audiobook/OAYEN.py
